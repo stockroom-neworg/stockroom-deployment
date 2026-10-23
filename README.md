@@ -1,9 +1,9 @@
 # stockroom-deployment  
-  
+
     
 Terraform + GitHub Actions deployment repo for the **Stockroom** application.
 
-This repo contains no application code. It owns all infrastructure-as-code and the
+This repo contains no application code. It owns all infrastructure-as-code and the repo
 CI/CD pipeline that deploys two services to AWS ECS Fargate:
 
 | Service | Description |
