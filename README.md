@@ -1,5 +1,5 @@
 # stockroom-deployment  
-  
+
     
 Terraform + GitHub Actions deployment repo for the **Stockroom** application.
 
