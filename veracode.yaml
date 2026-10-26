@@ -6,5 +6,5 @@ businessApplication:
        commitHash: 9a67be7166ad378f423dd7b3b41a1bdb4dfdb65d
 
      - name: stockroom-org1/stockroom-api
-       tag: v0.0.2
+       commitHash: 9f4466148d7a952c8a8b7c7a2e1ac32256d2308c
 
