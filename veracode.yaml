@@ -1,10 +1,10 @@
 businessApplication:
-  name: stockroom-app
+  name: Rutu-trust aut
   version: 1.4.1
   assets:
-     - name: stockroom-org1/stockroom-frontend
+     - name: stockroom-neworg/stockroom-frontend
        commitHash: 9a67be7166ad378f423dd7b3b41a1bdb4dfdb65d
 
-     - name: stockroom-org1/stockroom-api
-       tag: v0.0.2
+     - name: stockroom-neworg/stockroom-api
+       comitHash: 5d0ee07e5ae1298f2eb769ed2ba4e9ce04e0c6ea
 
