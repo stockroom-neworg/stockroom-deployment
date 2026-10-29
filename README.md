@@ -8,7 +8,7 @@ CI/CD pipeline that deploys two services to AWS ECS Fargate:
 
 | Service | Description |
 | ------- | ----------- |
-| `stockroom-api` | Python/FastAPI inventory management API |
+| `stockroom-api` | Python/FastAPI inventory management API |n vb
 | `stockroom-frontend` | React single-page application |
 
 ---
